@@ -225,7 +225,7 @@ a.active,a:hover{
 }
 .about-us img{
     flex:0 50%;
-    max-width:40%;
+    max-width:100%;
     height:auto;
     padding-right:15px;
 }
